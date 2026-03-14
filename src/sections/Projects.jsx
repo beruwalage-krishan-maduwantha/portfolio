@@ -31,12 +31,12 @@ const projects = [
     emoji: FaUser,
     title: 'Portfolio Website',
     description:
-      'A modern, responsive personal portfolio website showcasing my projects, skills, and professional journey. Built with clean HTML, CSS, and JavaScript.',
-    tech: ['HTML5', 'CSS3', 'JavaScript', 'Responsive Design'],
-    live: 'https://beruwalage-krishan-maduwantha.github.io/portfolio/',
+      'A modern, responsive personal portfolio website built with React. Showcases projects, skills, and professional journey with smooth animations and a clean design.',
+    tech: ['React', 'Vite', 'CSS Modules', 'React Icons', 'Responsive Design'],
+    live: 'https://bkm-portfolio-flax.vercel.app/',
     code: 'https://github.com/beruwalage-krishan-maduwantha/portfolio',
     gradient: 'linear-gradient(135deg, #06b6d4 0%, #3b82f6 100%)',
-    badge: 'Frontend',
+    badge: 'React',
   },
 ]
 
